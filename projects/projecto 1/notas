@@ -30,6 +30,26 @@ entradas
 https://learnpythonpy6.wordpress.com
 https://learnpythonpy6.wordpress.com/2023/03/16/integers/
 https://learnpythonpy6.wordpress.com/2023/03/16/
+https://learnpythonpy6.wordpress.com/2023/03/16/float/
+
+INICIO
+ENLACE
+AJUSTES DE ENLACE
+
+https://learnpythonpy6.wordpress.com/2023/03/16/float/
+
+float
+numbers like 133.5, 2897.11, and 3571.213
+<BR>
+x = float(56)
+<BR>
+print(x) 
+<BR>
+print(float(67))
+<BR>
+x = float (78.9)
+<BR>
+print(x)
 
 
 
